@@ -1,4 +1,4 @@
-#Data Mining 1 [R274] Project - University of Belgrade, Faculty of Mathematics
+**Data Mining 1 [R274] Project - University of Belgrade, Faculty of Mathematics**
 
 The purpose of this project is to demonstrate some of the uses of:
 
